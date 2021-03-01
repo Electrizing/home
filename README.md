@@ -4,4 +4,8 @@
 ### header
 ## header
 # header
-page
+*normal* text?? that's epic by **epic games**
+
+*italic text*
+**bold text**
+*mama **mia***
