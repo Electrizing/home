@@ -12,3 +12,5 @@
 
 * shopping list
   * eggs
+
+![here is a cool thunderstorm image](thunder.png)
