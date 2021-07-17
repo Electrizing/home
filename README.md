@@ -7,6 +7,8 @@ I made a lot of projects in Roblox Studio (50+), mostly for fun.
 ## Payment
 I only accept Robux, please be reasonable with the prices. For example, I can't make you a whole game for 1k.
 
+I prefer for you to offer prices, I'll give you a heads-up if it's too low.
+
 ## Past work
 Sorry if videos are low quality.
 
