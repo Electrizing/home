@@ -1,5 +1,7 @@
 # Portfolio
-sorry if video is low quality
+Hey, I am a programmer with 4+ years of experience, mostly LUA, Python, JavaScript and C#.
+
+Sorry if videos are low quality.
 
 <details>
   <summary> FPS System - guns, ammo counter, firing modes, aiming, dynamic crosshair, deploy menu, etc...</summary>
