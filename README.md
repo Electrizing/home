@@ -4,7 +4,12 @@ sorry if video is low quality
 <details>
   <summary> FPS System - guns, ammo counter, firing modes, aiming, dynamic crosshair, deploy menu, etc...</summary>
   <br>
-  https://youtu.be/qwkyW7Lig4U
+  <a href="https://youtu.be/qwkyW7Lig4U" onclick="window.open('https://youtu.be/qwkyW7Lig4U', '_self');">
+
+  Example
+
+</a>
+  
 </details>
 
 <details>
