@@ -4,8 +4,7 @@ sorry if video is low quality
 <details>
   <summary> FPS System - guns, ammo counter, firing modes, aiming, dynamic crosshair, deploy menu, etc...</summary>
   <br>
-  [Link to another page](./thunger.png).
-  [See youtube video](https://youtu.be/qwkyW7Lig4U).
+  https://youtu.be/qwkyW7Lig4U)
 </details>
 
 <details>
