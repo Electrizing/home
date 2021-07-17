@@ -11,6 +11,8 @@ Please be reasonable with the prices, for example, I can't make you a whole game
 
 I prefer for you to offer prices, I'll give you a heads-up if it's too low.
 
+Make sure to take care of tax.
+
 ## Past work
 Sorry if videos are low quality.
 
