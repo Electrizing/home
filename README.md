@@ -8,5 +8,5 @@
 <details>
   <summary>Tower Defense</summary>
   <br>
-https://streamable.com/ebx0r9
+[Link to video](https://streamable.com/ebx0r9)
 </details>
