@@ -1,8 +1,8 @@
 # Portfolio
 ## About me
-Hey, I am a programmer with 4+ years of experience, mostly LUA, Python, JavaScript and C#.
+Hey, I'm a programmer with 4+ years of experience, I mostly code in LUA, Python, JavaScript and C#.
 
-I made a lot of projects in Roblox Studio (50+), mostly for fun.
+I have made a lot of projects in Roblox Studio (50+), mostly for fun.
 
 ## Payment
 I only accept Robux.
