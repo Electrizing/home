@@ -5,6 +5,7 @@ Hey, I'm a programmer with 5+ years of experience, I mostly code in Lua, Python,
 I have made a lot of projects in Roblox Studio, mostly for fun. However, I own a game with 3M+ visits.
 
 ## Payment
+Pay with PayPal here: https://www.paypal.com/donate/?hosted_button_id=FFVQP9279E7AJ
 Accepting primarily PayPal. If you use a different payment method, such as CashApp, maybe I could accept that too. 
 
 Please be reasonable with prices.
