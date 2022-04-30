@@ -7,11 +7,11 @@ I have made a lot of projects in Roblox Studio, mostly for fun. However, I own a
 ## Payment
 Accepting primarily PayPal. If you use a different payment method, such as CashApp, maybe I could accept that too. 
 
-Please be reasonable with the prices, for example, I can't make you a whole game for 1,000 Robux.
+Please be reasonable with prices.
 
 I prefer for you to offer prices, I'll give you a heads-up if it's too low.
 
-Make sure to take care of tax.
+Make sure to take care of fees.
 
 ## Past work
 Sorry if videos are low quality.
@@ -29,4 +29,4 @@ Sorry if videos are low quality.
 <br>
 
 ## Contact
-᲼᲼᲼᲼#7028
+᲼᲼᲼᲼#7028 (invisible name - you may need to copy and paste)
