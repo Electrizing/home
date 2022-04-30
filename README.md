@@ -1,11 +1,11 @@
 # Portfolio
 ## About me
-Hey, I'm a programmer with 4+ years of experience, I mostly code in LUA, Python, JavaScript and C#.
+Hey, I'm a programmer with 5+ years of experience, I mostly code in Lua, Python, and JavaScript.
 
-I have made a lot of projects in Roblox Studio (50+), mostly for fun.
+I have made a lot of projects in Roblox Studio, mostly for fun. However, I own a game with 3M+ visits.
 
 ## Payment
-I only accept Robux.
+Accepting primarily PayPal. If you use a different payment method, such as CashApp, maybe I could accept that too. 
 
 Please be reasonable with the prices, for example, I can't make you a whole game for 1,000 Robux.
 
@@ -29,4 +29,4 @@ Sorry if videos are low quality.
 <br>
 
 ## Contact
-Jozko#1956
+᲼᲼᲼᲼#7028
