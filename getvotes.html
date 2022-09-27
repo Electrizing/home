@@ -9,6 +9,7 @@
 <script>
     function handleRequest() {
     axios.get("https://games.roblox.com/v1/games/votes?universeIds=1921163023", {name: "data"}).then(function (response) {
+        console.log("Bruh")
         console.log(response)
         // do whatever you want if console is [object object] then stringify the response
     })
